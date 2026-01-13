@@ -5,3 +5,6 @@
 [submodule "bcfrailph"]
 	path = bcfrailph
 	url = https://github.com/cran/bcfrailph
+[submodule "bcfrailphdv"]
+	path = bcfrailphdv
+	url = https://github.com/cran/bcfrailphdv
